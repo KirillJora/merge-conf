@@ -1,0 +1,4 @@
+breakme
+On branch test
+nothing to commit, working tree clean
+PS C:\Users\kirill.konovalov\OneDrive - SEEK\Documents\Personal\GitCourse\tree>
